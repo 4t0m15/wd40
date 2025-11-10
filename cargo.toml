@@ -1,0 +1,6 @@
+[package]
+name = "wd40text"
+version = "0.0.1"
+edition = "2021"
+authors = ["Arsen Martirosyan <arsenmartirosyan@protonmail.com>"]
+description = "A short description of your crate"
